@@ -1,0 +1,2 @@
+Tạo đường dẫn có tên: D:\HỌC TẬP\DoAn\CongNghe.net xong bỏ file QL_QuanCaFe vào trong file CongNghe.net
+-> Tạo đường dẫn cho có hình ảnh đẹp và chú ý nhớ đổi Report
